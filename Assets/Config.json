@@ -1,0 +1,8 @@
+{
+  "asset_path": "/Game/",
+  "allowed_lightmap_resolution": [32, 512],
+  "naming_rules": {
+    "StaticMesh": "SM_"
+  },
+  "verbose": true
+}
